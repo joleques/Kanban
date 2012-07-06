@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/mysql
+END
+ConexaoMysql.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/mysql/ConexaoMysql.java
+END
+DAOMysql.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/mysql/DAOMysql.java
+END
+Conexao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/mysql/Conexao.java
+END

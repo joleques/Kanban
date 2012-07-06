@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/utilitarios/mockito-1.9.0/separate-jars
+END
+objenesis-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/utilitarios/mockito-1.9.0/separate-jars/objenesis-license.txt
+END
+hamcrest-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/utilitarios/mockito-1.9.0/separate-jars/hamcrest-license.txt
+END
+com.springsource.org.hamcrest.core-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/utilitarios/mockito-1.9.0/separate-jars/com.springsource.org.hamcrest.core-1.1.0.jar
+END
+mockito-core-1.9.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/utilitarios/mockito-1.9.0/separate-jars/mockito-core-1.9.0.jar
+END
+com.springsource.org.objenesis-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/utilitarios/mockito-1.9.0/separate-jars/com.springsource.org.objenesis-1.0.0.jar
+END
+asm-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/utilitarios/mockito-1.9.0/separate-jars/asm-license.txt
+END
+cglib-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/utilitarios/mockito-1.9.0/separate-jars/cglib-license.txt
+END

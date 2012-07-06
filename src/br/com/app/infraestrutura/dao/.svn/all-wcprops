@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/dao
+END
+TimeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/dao/TimeDAO.java
+END
+DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/infraestrutura/dao/DAO.java
+END
+EstoriaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15/trunk/Kanban/src/br/com/app/infraestrutura/dao/EstoriaDAO.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/dominio
+END
+Espera.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/Kanban/src/br/com/app/dominio/Espera.java
+END
+Pronto.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/dominio/Pronto.java
+END
+Tarefa.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/dominio/Tarefa.java
+END
+Teste.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/dominio/Teste.java
+END
+Estoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/dominio/Estoria.java
+END
+Analise.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/dominio/Analise.java
+END
+Execucao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/dominio/Execucao.java
+END
+Raia.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/dominio/Raia.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/Kanban/src/br/com/app/dominio/Time.java
+END
